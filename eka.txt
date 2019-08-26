@@ -11,9 +11,3 @@ näin näet commitin aiheuttamat muutokset diff-muodossa
 jos oikealta on valittuna tree, näkyy vasemmalla puolella (valinnasta riippumatta) tiedostojen commitin aikainen tilanne
 Jos käytät sourcetreetä, sen pitäisi päivittyä automaattisesti ja näyttää muutos diff-muodossa
 
-fkdlsj jlkdj lksj ljdkl sjskl jdklsjlksj jsklj
-dfjsfklj lksjfldsj
-fjdsklfj 
-fjksdj 
-jfkdsjk
-fjdsklfj lkjslj kldjsklf jsdlk
